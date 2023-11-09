@@ -1,0 +1,8 @@
+stage 1: 
+reate and configure your itub profile. his is the first step you should take to join the itub community. ou can register on the itub website, choose a username and avatar, add information about yourself and your interests, as well as specify your contact details and links to other resources. ou can also customize your security and notification settings, as well as subscribe to the repositories and users you are interested in 2.
+
+stage 2: 
+reating and cloning repositories.  repository is a place where your code and all related files are stored. ou can create your own repository on itub using the ew button on the main page, or clone an existing repository using the git clone command in the terminal. loning means that you copy the repository from itub to your local computer to work with it offline. ou can also add files to your repository using the git add and git commit commands, or upload them via the itub 1 web interface.
+
+stage 3: 
+ranching and merging. ranching is the process of creating a copy of your repository in which you can make changes without affecting the main branch (master or main). his is useful when you want to experiment with new features or fix bugs without disrupting the performance of your project. ou can create a new branch using the git branch command, or switch to an existing branch using the git checkout command. erging is the process of merging changes from one branch into another. ou can do this using the git merge command, or send a pull request to itub to ask other developers to check and approve your changes.
